@@ -16,3 +16,4 @@
 * [数值积分与数值微分](shu-zhi-ji-fen-yu-shu-zhi-wei-fen.md)
 * [常微分方程的数值解法](chang-wei-fen-fang-cheng-de-shu-zhi-jie-fa.md)
 * [数值分析的可视化](shu-zhi-fen-xi-de-ke-shi-hua.md)
+* [数学建模基础](shu-xue-jian-mo-ji-chu.md)
