@@ -1,0 +1,17 @@
+# Table of contents
+
+* [主页](README.md)
+* [直接求解线性方程组](zhi-jie-qiu-jie-xian-xing-fang-cheng-zu/README.md)
+  * [1. 顺序高斯消去法（Gaussian Elimination）](zhi-jie-qiu-jie-xian-xing-fang-cheng-zu/1.-shun-xu-gao-si-xiao-qu-fa-gaussian-elimination.md)
+  * [2. 列主元高斯消去法（Gaussian Elimination with Partial Pivoting）](zhi-jie-qiu-jie-xian-xing-fang-cheng-zu/2.-lie-zhu-yuan-gao-si-xiao-qu-fa-gaussian-elimination-with-partial-pivoting.md)
+  * [3. 直接三角分解法（LU Decomposition）](zhi-jie-qiu-jie-xian-xing-fang-cheng-zu/3.-zhi-jie-san-jiao-fen-jie-fa-lu-decomposition.md)
+  * [4. 平方根法（Cholesky Decomposition）](zhi-jie-qiu-jie-xian-xing-fang-cheng-zu/4.-ping-fang-gen-fa-cholesky-decomposition.md)
+  * [5. 追赶法（Thomas Algorithm）](zhi-jie-qiu-jie-xian-xing-fang-cheng-zu/5.-zhui-gan-fa-thomas-algorithm.md)
+* [范数](fan-shu/README.md)
+  * [向量范数](fan-shu/xiang-liang-fan-shu.md)
+  * [矩阵范数](fan-shu/ju-zhen-fan-shu.md)
+* [解线性方程的迭代法](jie-xian-xing-fang-cheng-de-die-dai-fa.md)
+* [非线性方程求根](fei-xian-xing-fang-cheng-qiu-gen.md)
+* [插值与逼近](cha-zhi-yu-bi-jin.md)
+* [数值积分与数值微分](shu-zhi-ji-fen-yu-shu-zhi-wei-fen.md)
+* [常微分方程的数值解法](chang-wei-fen-fang-cheng-de-shu-zhi-jie-fa.md)
