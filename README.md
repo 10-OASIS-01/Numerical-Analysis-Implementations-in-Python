@@ -2,6 +2,8 @@
 
 欢迎使用本数值分析 Python 实现库！本项目旨在为学习和研究数值分析提供一个实用的工具集和详细的教材。该库包含多种数值分析算法的实现及其应用示例，适合学生、教师以及从事数值计算工作的研究人员使用。
 
+**Gitbook链接：**[**https://laus-organization.gitbook.io/numerical-analysis-implementations-in-python/**](https://laus-organization.gitbook.io/numerical-analysis-implementations-in-python/)
+
 ### 目录
 
 * 直接求解线性方程组
