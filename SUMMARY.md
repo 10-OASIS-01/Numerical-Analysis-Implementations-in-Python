@@ -1,6 +1,6 @@
 # Table of contents
 
-* [主页](README.md)
+* [数值分析 Python 实现](README.md)
 * [直接求解线性方程组](zhi-jie-qiu-jie-xian-xing-fang-cheng-zu/README.md)
   * [1. 顺序高斯消去法（Gaussian Elimination）](zhi-jie-qiu-jie-xian-xing-fang-cheng-zu/1.-shun-xu-gao-si-xiao-qu-fa-gaussian-elimination.md)
   * [2. 列主元高斯消去法（Gaussian Elimination with Partial Pivoting）](zhi-jie-qiu-jie-xian-xing-fang-cheng-zu/2.-lie-zhu-yuan-gao-si-xiao-qu-fa-gaussian-elimination-with-partial-pivoting.md)
