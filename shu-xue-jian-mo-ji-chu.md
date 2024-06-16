@@ -26,7 +26,7 @@
 
 #### 2、评价模型 <a href="#h_678898494_3" id="h_678898494_3"></a>
 
-（1）[模糊综合评价法](https://www.zhihu.com/search?q=%E6%A8%A1%E7%B3%8A%E7%BB%BC%E5%90%88%E8%AF%84%E4%BB%B7%E6%B3%95\&search\_source=Entity\&hybrid\_search\_source=Entity\&hybrid\_search\_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22678898494%22%7D)
+（1）模糊综合评价法
 
 （2）层次分析法
 
@@ -38,7 +38,7 @@
 
 （6）人工神经网络评价法
 
-（7）[BP神经网络综合评价法](https://www.zhihu.com/search?q=BP%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%BB%BC%E5%90%88%E8%AF%84%E4%BB%B7%E6%B3%95\&search\_source=Entity\&hybrid\_search\_source=Entity\&hybrid\_search\_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22678898494%22%7D)
+（7）BP神经网络综合评价法
 
 （8）组合评价法
 
@@ -50,7 +50,7 @@
 
 （3）神经网络模型
 
-（4）现代优化算法（遗传算法、[模拟退火算法](https://www.zhihu.com/search?q=%E6%A8%A1%E6%8B%9F%E9%80%80%E7%81%AB%E7%AE%97%E6%B3%95\&search\_source=Entity\&hybrid\_search\_source=Entity\&hybrid\_search\_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22678898494%22%7D)
+（4）现代优化算法（遗传算法、模拟退火算法
 
 、蚁群算法、禁忌搜索、粒子群算法）
 
@@ -64,7 +64,7 @@
 
 （2）逻辑回归
 
-（3）[随机森林](https://www.zhihu.com/search?q=%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97\&search\_source=Entity\&hybrid\_search\_source=Entity\&hybrid\_search\_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22678898494%22%7D)
+（3）随机森林
 
 （4）朴素贝叶斯。
 
