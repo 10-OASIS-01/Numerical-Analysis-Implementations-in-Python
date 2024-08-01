@@ -18,7 +18,6 @@
   * [迭代法的误差分析](jie-xian-xing-fang-cheng-de-die-dai-fa/die-dai-fa-de-wu-cha-fen-xi.md)
 * [非线性方程求根](fei-xian-xing-fang-cheng-qiu-gen/README.md)
   * [二分法](fei-xian-xing-fang-cheng-qiu-gen/er-fen-fa.md)
-  * [简单迭代法的构造](fei-xian-xing-fang-cheng-qiu-gen/jian-dan-die-dai-fa-de-gou-zao.md)
   * [简单迭代法的收敛条件](fei-xian-xing-fang-cheng-qiu-gen/jian-dan-die-dai-fa-de-shou-lian-tiao-jian.md)
   * [迭代法的收敛速度](fei-xian-xing-fang-cheng-qiu-gen/die-dai-fa-de-shou-lian-su-du.md)
   * [Newton迭代法](fei-xian-xing-fang-cheng-qiu-gen/newton-die-dai-fa.md)
