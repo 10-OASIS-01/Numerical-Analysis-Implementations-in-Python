@@ -10,7 +10,7 @@ description: 在数值分析中，拉格朗日插值法是以法国十八世纪�
 
 称 ![](<../.gitbook/assets/image (13).png>) 为关于节点 ![](<../.gitbook/assets/image (14).png>) 的
 
-<mark style="color:blue;">n次Lagrange插值基函数</mark>，<img src="../.gitbook/assets/image (16).png" alt="" data-size="line"> 为<mark style="color:blue;">n次Lagrange插值多项式</mark>。
+<mark style="color:red;">n次Lagrange插值基函数</mark>，<img src="../.gitbook/assets/image (16).png" alt="" data-size="line"> 为<mark style="color:red;">n次Lagrange插值多项式</mark>。
 
 其基函数为
 
