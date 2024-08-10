@@ -26,7 +26,6 @@
 * [插值与逼近](cha-zhi-yu-bi-jin/README.md)
   * [Lagrange插值](cha-zhi-yu-bi-jin/lagrange-cha-zhi.md)
   * [Newton插值](cha-zhi-yu-bi-jin/newton-cha-zhi.md)
-  * [分段Lagrange插值](cha-zhi-yu-bi-jin/fen-duan-lagrange-cha-zhi.md)
   * [Hermite插值](cha-zhi-yu-bi-jin/hermite-cha-zhi.md)
   * [三次样条插值](cha-zhi-yu-bi-jin/san-ci-yang-tiao-cha-zhi.md)
   * [最小二乘法](cha-zhi-yu-bi-jin/zui-xiao-er-cheng-fa.md)
