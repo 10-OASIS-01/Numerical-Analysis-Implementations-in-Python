@@ -28,6 +28,7 @@
   * [Newton插值](cha-zhi-yu-bi-jin/newton-cha-zhi.md)
   * [Hermite插值](cha-zhi-yu-bi-jin/hermite-cha-zhi.md)
   * [三次样条插值](cha-zhi-yu-bi-jin/san-ci-yang-tiao-cha-zhi.md)
+  * [正交多项式](cha-zhi-yu-bi-jin/zheng-jiao-duo-xiang-shi.md)
   * [最小二乘法](cha-zhi-yu-bi-jin/zui-xiao-er-cheng-fa.md)
 * [数值积分与数值微分](shu-zhi-ji-fen-yu-shu-zhi-wei-fen/README.md)
   * [数值积分的基本概念](shu-zhi-ji-fen-yu-shu-zhi-wei-fen/shu-zhi-ji-fen-de-ji-ben-gai-nian.md)
