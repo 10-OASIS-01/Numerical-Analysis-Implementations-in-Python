@@ -4,13 +4,17 @@
 
 ### 差商的定义：
 
-一阶差商：![](../.gitbook/assets/image.png)
+一阶差商：
 
-二阶差商：![](<../.gitbook/assets/image (1).png>)
+![](../.gitbook/assets/image.png)
+
+二阶差商：
+
+![](<../.gitbook/assets/image (1).png>)
 
 k阶差商：
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <mark style="color:blue;">注：在以上定义中，点x0，x1，...，xk为互不相同的点。</mark>
 
@@ -18,7 +22,9 @@ k阶差商：
 
 利用该性质可直接求出特定的差商，简化计算过程！
 
-若 f (x) 具有 k 阶连续导数，则 ![](<../.gitbook/assets/image (3).png>) ，
+若 f (x) 具有 k 阶连续导数，则
+
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="364"><figcaption></figcaption></figure>
 
 其中 <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> 在 k+1 个节点之间。
 
@@ -32,7 +38,7 @@ k阶差商：
 
 <figure><img src="../.gitbook/assets/QianJianTec1723209058715.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/QianJianTec1723209093127 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/QianJianTec1723209093127 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 称 Nn( x ) 为 <mark style="color:red;">n 次 Newton 插值多项式</mark>，Rn( x ) 为 <mark style="color:red;">n 次 Newton 插值余项</mark>。
 

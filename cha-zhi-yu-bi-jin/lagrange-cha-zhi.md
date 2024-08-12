@@ -6,7 +6,7 @@ description: 在数值分析中，拉格朗日插值法是以法国十八世纪�
 
 ## 定义：
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
 
 称 ![](<../.gitbook/assets/image (13).png>) 为关于节点 ![](<../.gitbook/assets/image (14).png>) 的
 
@@ -14,7 +14,7 @@ description: 在数值分析中，拉格朗日插值法是以法国十八世纪�
 
 其基函数为
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt="" width="563"><figcaption></figcaption></figure>
 
 将基函数代入即可求得n次Lagrange插值多项式，从而计算出对应节点的插值结果。
 
@@ -22,7 +22,7 @@ description: 在数值分析中，拉格朗日插值法是以法国十八世纪�
 
 ### Lagrange插值余项（研究插值多项式的近似程度）：
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
 
 其中 <img src="../.gitbook/assets/image (20).png" alt="" data-size="line"> 且与x有关。
 

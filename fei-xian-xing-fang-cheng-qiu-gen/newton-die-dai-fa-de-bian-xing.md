@@ -48,11 +48,11 @@
 
 已知 x\* 是方程 f ( x ) = 0 的 m 重根，则 x\* 是方程
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
 的 m - 1 重根，所以令
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
 
 则 x\* 恰是方程 u ( x ) = 0 的单根，此时再使用牛顿迭代法有：
 
