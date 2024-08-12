@@ -16,7 +16,7 @@
 
 <figure><img src="../.gitbook/assets/QianJianTec1723430021143.png" alt="" width="563"><figcaption></figcaption></figure>
 
-其中权函数 ![](../.gitbook/assets/image.png)(x) 为非负连续函数.
+其中权函数 ![](<../.gitbook/assets/image (1).png>)(x) 为非负连续函数.
 
 ### 定理
 

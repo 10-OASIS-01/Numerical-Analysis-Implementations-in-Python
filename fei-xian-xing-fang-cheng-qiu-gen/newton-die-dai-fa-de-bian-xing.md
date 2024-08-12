@@ -12,7 +12,7 @@
 
 通常取
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="144"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="144"><figcaption></figcaption></figure>
 
 当满足 <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original"> 时，简化Newton迭代法对于精确解的邻域收敛。
 
