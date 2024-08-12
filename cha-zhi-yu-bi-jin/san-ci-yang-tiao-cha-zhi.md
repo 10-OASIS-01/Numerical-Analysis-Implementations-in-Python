@@ -12,7 +12,7 @@
 
 （1） S ( x ) 是一个分段的三次多项式且 S ( x ) = yk；
 
-（2）<img src="../.gitbook/assets/image (25).png" alt="" data-size="line">.
+（2）<img src="../.gitbook/assets/image (25).png" alt="" data-size="original">.
 
 则称 S ( x ) 是区间 \[ a, b ] 上的<mark style="color:red;">三次样条插值函数</mark>。
 
@@ -26,11 +26,11 @@
 
 （3）假设 f ( x ) 是以 b - a 为周期的周期函数，这时要求
 
-<figure><img src="../.gitbook/assets/QianJianTec1723366855525.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/QianJianTec1723366855525.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/QianJianTec1723366828991.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/QianJianTec1723366828991.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/QianJianTec1723366769932.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/QianJianTec1723366769932.png" alt="" width="375"><figcaption></figcaption></figure>
 
 这样确定的 S ( x ) 为<mark style="color:red;">周期样条函数</mark>。
 
