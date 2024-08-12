@@ -12,7 +12,7 @@
 
 （1） S ( x ) 是一个分段的三次多项式且 S ( x ) = yk；
 
-（2）<img src="../.gitbook/assets/image (25).png" alt="" data-size="original">.
+（2）<img src="../.gitbook/assets/image (25).png" alt="" data-size="line">.
 
 则称 S ( x ) 是区间 \[ a, b ] 上的<mark style="color:red;">三次样条插值函数</mark>。
 
