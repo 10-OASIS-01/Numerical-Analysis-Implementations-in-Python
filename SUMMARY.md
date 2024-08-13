@@ -45,5 +45,7 @@
   * [改进Euler方法](chang-wei-fen-fang-cheng-de-shu-zhi-jie-fa/gai-jin-euler-fang-fa.md)
   * [差分公式的局部截断误差分析](chang-wei-fen-fang-cheng-de-shu-zhi-jie-fa/cha-fen-gong-shi-de-ju-bu-jie-duan-wu-cha-fen-xi.md)
   * [Runge-Kutta方法](chang-wei-fen-fang-cheng-de-shu-zhi-jie-fa/rungekutta-fang-fa.md)
-* [数值分析的可视化](shu-zhi-fen-xi-de-ke-shi-hua.md)
+* [数值分析的可视化](shu-zhi-fen-xi-de-ke-shi-hua/README.md)
+  * [普通图形](shu-zhi-fen-xi-de-ke-shi-hua/pu-tong-tu-xing.md)
+  * [更多图形](shu-zhi-fen-xi-de-ke-shi-hua/geng-duo-tu-xing.md)
 * [数学建模基础](shu-xue-jian-mo-ji-chu.md)
