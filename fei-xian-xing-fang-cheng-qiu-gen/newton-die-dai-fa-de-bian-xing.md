@@ -12,9 +12,9 @@
 
 通常取
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="144"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="144"><figcaption></figcaption></figure>
 
-当满足 <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original"> 时，简化Newton迭代法对于精确解的邻域收敛。
+当满足 <img src="../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="original"> 时，简化Newton迭代法对于精确解的邻域收敛。
 
 简化Newton迭代法通常只有<mark style="color:red;">线性收敛</mark>！
 
@@ -22,7 +22,7 @@
 
 ### 核心思想：用割线斜率近似切线斜率，即免去计算 f ( x ) 的导数表达式
 
-即：![](<../.gitbook/assets/image (3) (1).png>)
+即：![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 迭代格式：
 

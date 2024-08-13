@@ -12,7 +12,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/QianJianTec1723469409813.png" alt="" width="563"><figcaption></figcaption></figure>
 
-是区间 \[ -1, 1 ] 上权函数<img src="../.gitbook/assets/image.png" alt="" data-size="line">( x ) = 1 的正交多项式且满足：
+是区间 \[ -1, 1 ] 上权函数<img src="../.gitbook/assets/image (3).png" alt="" data-size="line">( x ) = 1 的正交多项式且满足：
 
 1.
 
