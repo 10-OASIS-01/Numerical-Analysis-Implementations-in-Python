@@ -23,7 +23,7 @@ description: >-
 
 ### 代码实现
 
-```
+```python
 # 计算前 5 阶 Legendre 多项式
 P = [legendre(n) for n in range(5)]
 print('前 5 阶 Legendre 多项式：', P)
@@ -31,7 +31,7 @@ print('前 5 阶 Legendre 多项式：', P)
 
 绘制图像以分别观察 3、10、50 阶的 Legendre 多项式
 
-```
+```python
 # legendre
 # 生成数据
 x = np.linspace(-1, 1, 4)
@@ -88,7 +88,7 @@ plt.show()
 
 ### 代码实现
 
-```
+```python
 # 计算前 5 阶 Chebyshev 多项式
 T = [chebyt(n) for n in range(5)]
 print('前 5 阶 Chebyshev 多项式：', T)
@@ -96,7 +96,7 @@ print('前 5 阶 Chebyshev 多项式：', T)
 
 绘制图像以分别观察 3、10、50 阶的 Chebyshev 多项式
 
-```
+```python
 # chebyt
 # 生成数据
 x = np.linspace(-1, 1, 4)
@@ -152,7 +152,7 @@ plt.show()
 
 ### 代码实现
 
-```
+```python
 # 计算前 5 阶 (α=0) Laguerre 多项式
 L = [genlaguerre(n, 0) for n in range(5)]
 print('前 5 阶 Laguerre 多项式 (α=0) ：', L)
@@ -160,7 +160,7 @@ print('前 5 阶 Laguerre 多项式 (α=0) ：', L)
 
 绘制图像以分别观察 3、10、50 阶的 Laguerre 多项式
 
-```
+```python
 # Laguerre
 # 生成数据
 x = np.linspace(-1, 1, 4)
@@ -216,7 +216,7 @@ plt.show()
 
 ### 代码实现
 
-```
+```python
 # 计算 Hermite 多项式前 5 阶
 H = [hermite(n) for n in range(5)]
 print(H)
@@ -224,7 +224,7 @@ print(H)
 
 绘制图像以分别观察 3、10、50 阶的 Hermite 多项式
 
-```
+```python
 # Hermite
 # 生成数据
 x = np.linspace(-1, 1, 4)
@@ -284,7 +284,7 @@ Jacobi 正交多项式 <img src="../.gitbook/assets/QianJianTec1723473292054.png
 
 ### 代码实现
 
-```
+```python
 # 计算前 5 阶 (α=0.5, β=1.0) Jacobi 多项式
 P = [jacobi(n, 0.5, 1.0) for n in range(5)]
 print('前 5 阶 Jacobi 多项式 (α=0.5, β=1.0) ：', P)
@@ -292,7 +292,7 @@ print('前 5 阶 Jacobi 多项式 (α=0.5, β=1.0) ：', P)
 
 绘制图像以分别观察 3、10、50 阶的 Jacobi 多项式
 
-```
+```python
 # Jacobi
 # 生成数据
 x = np.linspace(-1, 1, 4)
